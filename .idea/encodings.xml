@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sms/liangshang/smstranspond/broadcastReceiver" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sms/liangshang/smstranspond/broadcastReceiver/SmsReceiver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sms/liangshang/smstranspond/localService" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sms/liangshang/smstranspond/util" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-ldpi" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-sw600dp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-sw720dp-land" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v11" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v14" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

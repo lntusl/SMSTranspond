@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoodStu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Query_Sms_Pho">Query_Sms_Pho</string>
+    <string name="Query_base">Query_base</string>
+
+</resources>

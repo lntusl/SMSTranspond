@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <RadioGroup android:id="@+id/radioGroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.75">
+        <RadioButton
+                android:text="WeChat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/radioButton2" android:layout_weight="1"
+                tools:text="WeChat"/>
+        <RadioButton
+                android:text="Msm&amp;weChat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/radioButton" android:layout_weight="1"
+                tools:text="Msm&amp;weChat"/>
+    </RadioGroup>
+
+    <Button
+            android:text="刷新"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/button3" android:layout_weight="1" tools:text="刷新"
+            android:layout_marginEnd="26dp"
+            android:layout_alignBottom="@+id/radioGroup" android:layout_alignParentEnd="true"/>
+    <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="56dp"
+            android:entries="@array/expression"
+            android:id="@+id/spinner" android:layout_below="@+id/radioGroup" android:layout_alignParentEnd="true"/>
+</RelativeLayout>

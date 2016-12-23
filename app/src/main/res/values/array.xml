@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expression">
+        <item>请选择短信转发条件</item>
+        <item>相等</item>
+        <item>不相等</item>
+        <item>包含</item>
+        <item>不包含</item>
+    </string-array>
+
+    <string-array name="listener">
+        <item>请选择监听事件</item>
+        <item>短信</item>
+        <item>电话</item>
+        <item>电话和短信</item>
+    </string-array>
+</resources>
